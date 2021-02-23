@@ -64,7 +64,7 @@ p {
 
 #projects {
     display: flex;
-    flex-flow: row wrap;
+    flex-wrap: wrap;
     justify-content: space-evenly;
     align-items: center;
     background-color: #C1BFD9;
@@ -76,8 +76,8 @@ p {
     margin: 1em;
 }
 
-.project-tile:hover {
-    color: #aaa;
+.project-tile: hover {
+    color: blue;
 }
 
 figcaption {
