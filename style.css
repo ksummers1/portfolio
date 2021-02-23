@@ -76,7 +76,7 @@ p {
     margin: 1em;
 }
 
-.project-tile: hover {
+.project-tile a:hover {
     color: blue;
 }
 
@@ -88,7 +88,6 @@ figcaption {
 }
 
 img {
-    border: 0;
     display: block;
 }
 
