@@ -72,6 +72,10 @@ p {
     width: 100%;
 }
 
+img {
+    display: block;
+}
+
 .project-tile {
     margin: 1em;
 }
@@ -85,10 +89,6 @@ figcaption {
     display: block;
     background-color: #050330;
     color: white;
-}
-
-img {
-    display: block;
 }
 
 figcaption>span {
