@@ -87,6 +87,11 @@ figcaption {
     color: white;
 }
 
+img {
+    border: 0;
+    display: block;
+}
+
 figcaption>span {
     font-size: 1.25em;
 }
